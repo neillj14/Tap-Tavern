@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KnightControls
+  - Characters
+  - Stage2Camera
+  - Enemy
+  - DragonControls
+  - Stage1Enemy
+  - Stage2Enemy
+  - CharGroup
+  - camCanvas
+  - HealthBars
+  - Stage2Positioners
+  - Stage3Positioners
+  - TutPrompts
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BehindChars
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2402466933
+    locked: 0
+  - name: Behind
+    uniqueID: 113809563
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Infront
+    uniqueID: 3443631575
+    locked: 0
